@@ -123,6 +123,7 @@ async function main() {
 
 main();
 ```
+3. The app can be accessed https://staging.d2n5dex9fqi5is.amplifyapp.com/
 ## Vue.js
 ### **Vue.js reactivity and common issues when tracking changes**
 When a component's `data` is initialized, Vue wraps the object in a `Proxy`. This proxy intercepts property access.
